@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/umar26656/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/umar26656/APS/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/umar26656/APS/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/umar26656/APS/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/umar26656/APS/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/umar26656/APS/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/umar26656/APS/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/umar26656/APS/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
 | ------- |
