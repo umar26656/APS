@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/umar26656/APS/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/umar26656/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/umar26656/APS/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/umar26656/APS/tree/master/0496-next-greater-element-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/umar26656/APS/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/umar26656/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/umar26656/APS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/umar26656/APS/tree/master/0234-palindrome-linked-list) |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/umar26656/APS/tree/master/0023-merge-k-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/umar26656/APS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
