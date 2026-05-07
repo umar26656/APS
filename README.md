@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/umar26656/APS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/umar26656/APS/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/umar26656/APS/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/umar26656/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/umar26656/APS/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/umar26656/APS/tree/master/0198-house-robber) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/umar26656/APS/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/umar26656/APS/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/umar26656/APS/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/umar26656/APS/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/umar26656/APS/tree/master/0190-reverse-bits) |
 | [1763-longest-nice-substring](https://github.com/umar26656/APS/tree/master/1763-longest-nice-substring) |
 ## Binary Indexed Tree
